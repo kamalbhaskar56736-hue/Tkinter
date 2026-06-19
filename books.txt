@@ -1,0 +1,3 @@
+python | Guido | 105
+java | James Gosling | 104
+ssc gd | rakesh sharma | 1005
